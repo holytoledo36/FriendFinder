@@ -1,4 +1,6 @@
-#FriendFinder
+# FriendFinder
+
+### App Description
 
 This app will ask you 10 questions, and based on a formula will match you up with an ideal friend based on their answers. And if you're lucky it might even be a celebrity!
 
@@ -13,4 +15,3 @@ Built With
 * JQuery
 * Bootstrap
 * HTML
-* CSS
